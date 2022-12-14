@@ -1,1 +1,1 @@
-This directory includes my ALX functions and nested loops tasks
+This directory includes my C functions and nested loops tasks
