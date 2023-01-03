@@ -1,1 +1,1 @@
-ALX 0x07. C - Even more pointers, arrays and strings tasks
+ALX LOW LEVEL PROGRAMMING TASKS ON POINTERS, ARRAYS AND STRINGS
